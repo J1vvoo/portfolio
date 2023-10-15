@@ -1,8 +1,8 @@
 import about from '../assets/img/about.jpg'
 import port01 from '../assets/img/port01.jpg'
 import port02 from '../assets/img/port02.jpg'
-//import port03 from '../assets/img/port03.jpg'
-//import port04 from '../assets/img/port04.jpg'
+import port03 from '../assets/img/port03.jpg'
+import port04 from '../assets/img/port04.jpg'
 //import port05 from '../assets/img/port05.jpg'
 //import port06 from '../assets/img/port06.jpg'
 //import port07 from '../assets/img/port07.jpg'
@@ -84,18 +84,24 @@ export const portText = [
     title: '웹 취약점 테스트 홈페이지 개발',
     desc: '웹의 편리함과 쉬운 접근성으로 인해 이용자들은 계속 증가하고 있으며, 이에 따라 웹 페이지 해킹 사례 또한 계속해서 증가하고 있습니다. 이러한 이유로 웹보안에 많은 신경을 써야하는 것은 피할 수 없습니다. 따라서 저희 팀은 이에 대비하기 위해 대중적으로 잘 알려진 웹 취약점을 테스트 해보고, 어떻게 시큐어 코딩을 해야 해킹을 막을 수 있는지에 대해 알리기 위해 웹 취약점을 테스트 할 수 있는 페이지를 개발하는 프로젝트 주제를 선정하게 되었습니다.',
     img: port01,
-    code: 'https://github.com/kimsangjunv1/-React-Portfolio',
-    view: 'https://portfoliosj-react.netlify.app',
-    name: '김상* 포트폴리오',
   },
   {
     num: '팀원 소개',
     title: '팀장 : 김원태',
     desc: '김원태, 김수현, 임성빈, 남지우, 전유경',
     img: port02,
-    code: 'https://github.com/kimsangjunv1/-React-Portfolio',
-    view: 'https://portfoliosj-react.netlify.app',
-    name: '김상* 포트폴리오',
+  },
+  {
+    num: '취약점 선정',
+    title: '+ 사용할 Tool',
+    desc: '보다 잘 알려져있는 XSS, CSRF, SSRF, SQL Injection, NoSQL Injection 총 5개의 취약점으로 선정을 했으며 BackEnd는 AWS와 Docker 그리고 MongoDB, FrontEnd는 Next.js, 소스 코드 관리는 Github를 사용할 예정입니다.',
+    img: port03,
+  },
+  {
+    num: '마음가짐',
+    title: '프로젝트에 임하는 자세',
+    desc: '교수님의 강의를 기반으로 "웹 서버 보안 프로그래밍" 교과목에 부합하는 프로젝트를 수행하며 성장하고자 하는 마음가짐으로 임하겠습니다.',
+    img: port04,
   },
 ]
 

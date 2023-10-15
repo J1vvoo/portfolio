@@ -48,7 +48,7 @@ const Port = () => {
               ref={(el) => (sectionRef.current[key] = el)}
             >
               <span className="num">{port.num}.</span>
-              <a href={port.code} target="_blank" className="img">
+              <a target="_blank" className="img">
                 <Image
                   src={port.img}
                   alt={port.name}
@@ -58,9 +58,6 @@ const Port = () => {
               </a>
               <h3 className="title">{port.title}</h3>
               <p className="desc">{port.desc}</p>
-              <a href={port.view} target="_blank" className="site">
-                사이트 보기
-              </a>
             </article>
           ))}
         </div>
