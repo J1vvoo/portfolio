@@ -15,7 +15,7 @@ const Header = () => {
         <div className="header__logo">
           <h1>
             <a href="#">
-              portfolio<em>jiwoo's page</em>
+              portfolio<em>jiWoo's page</em>
             </a>
           </h1>
         </div>
