@@ -3,12 +3,6 @@ import port01 from '../assets/img/port01.jpg'
 import port02 from '../assets/img/port02.jpg'
 import port03 from '../assets/img/port03.jpg'
 import port04 from '../assets/img/port04.jpg'
-//import port05 from '../assets/img/port05.jpg'
-//import port06 from '../assets/img/port06.jpg'
-//import port07 from '../assets/img/port07.jpg'
-//import port08 from '../assets/img/port08.jpg'
-//import port09 from '../assets/img/port09.jpg'
-//import port10 from '../assets/img/port10.jpg'
 
 export const headerNav = [
   {
@@ -30,6 +24,10 @@ export const headerNav = [
   {
     title: 'contact',
     url: '#contact',
+  },
+  {
+    title: 'board',
+    url: '/src/components/Board',
   },
 ]
 
@@ -67,14 +65,14 @@ export const siteText = [
     title: '와이파이를 이용한 네트워크 프로그래밍',
     code: 'https://github.com/J1vvoo/Network_progrmming',
     view: 'https://blog.naver.com/j1vvoo/223227779121',
-    info: ['SCP', '2023/09/26 ~ ing', 'Network'],
+    info: ['SCP', '2023/09/26 ~ 2023/11/26', 'Network'],
   },
   {
-    text: ['Python Cookie Stealer'],
-    title: '파이썬을 이용한 XSS 공격',
-    code: 'https://github.com/TheWation/PythonCookieStealer',
+    text: ['ARP Spoofing'],
+    title: '파이썬을 이용한 ARP spoofing 공격',
+    code: 'https://602study.notion.site/602study/ef00aaff529a4bcebf6fa492f05791e9',
     view: 'https://padlet.com/skawldn0401/my_score-a-eaqk5j2mdfn94002',
-    info: ['Python Project', '2023/09/27 ~ ing', 'xss cookie steal'],
+    info: ['Python Project', '2023/09/27 ~ 2023/12/06', 'python ARP spoofing'],
   },
 ]
 
