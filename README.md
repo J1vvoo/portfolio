@@ -32,7 +32,7 @@
   <br>
   정보보안 동아리 SCP에서 진행 중인 네트워크 프로그래밍 프로젝트 참여
   <br>
-  프로젝트 기간 : 2023/09/26 ~ ing
+  프로젝트 기간 : 2023/09/26 ~ 2023/11/26
   
   주제 : Network
 
@@ -41,17 +41,17 @@
 
 <details>
   <summary>
-    3. PYTHON COOKIE STEALER : 파이썬을 이용한 XSS 공격
+    3. ARP Spoofing : 파이썬을 이용한 ARP spoofing 공격
     
   </summary>
   <br>
-  XSS 공격을 통한 쿠키 탈취
+  aRP spoofing을 통한 네트워크 차단
   <br>
-  프로젝트 기간 : 2023/09/27 ~ ing
+  프로젝트 기간 : 2023/09/27 ~ 2023/12/06
   
-  주제 : Python, web hacking
+  주제 : Python, Network
 
-  💚 MORE에 들어가시면 프로젝트 관련 Github를 확인할 수 있으며, 프로젝트 회의 내용이 있는 Padlet 주소도 걸어놓았습니다. 💚
+  💚 MORE에 들어가시면 프로젝트 관련 웹페이지를 확인할 수 있으며, 프로젝트 회의 내용이 있는 Padlet 주소도 걸어놓았습니다. 💚
 </details>
 
 
