@@ -25,10 +25,6 @@ export const headerNav = [
     title: 'contact',
     url: '#contact',
   },
-  {
-    title: 'board',
-    url: '/src/components/Board',
-  },
 ]
 
 export const introText = {
@@ -74,6 +70,13 @@ export const siteText = [
     view: 'https://padlet.com/skawldn0401/my_score-a-eaqk5j2mdfn94002',
     info: ['Python Project', '2023/09/27 ~ 2023/12/06', 'python ARP spoofing'],
   },
+  {
+    text: ['TS 보안 허점을 찾아라!'],
+    title: '우수상',
+    code: 'https://www.kotsa.or.kr/portal/bbs/notice_view.do?bbscCode=notice&cateCode=&bbscSeqn=18069&pageNumb=1&sechCdtn=&sechKywd=&menuCode=05010100',
+    view: 'https://www.kotsa.or.kr/portal/bbs/notice_view.do?bbscCode=notice&cateCode=&bbscSeqn=18069&pageNumb=1&sechCdtn=&sechKywd=&menuCode=05010100',
+    info: ['Web hacking', '2023/11/25', 'contest'],
+  },
 ]
 
 export const portText = [
@@ -105,7 +108,7 @@ export const portText = [
 
 export const contactText = [
   {
-    title: 'phone : 010-5163-9687',
+    title: 'phone : 010-0000-0000',
   },
   {
     link: 'mailto:skawldn0401@naver.com',
@@ -123,5 +126,25 @@ export const footerText = [
     title: 'blog',
     desc: '블로그 방문하기.',
     link: 'https://blog.naver.com/j1vvoo',
+  },
+  {
+    title: 'HCJDemo',
+    desc: 'HCJ Demo 페이지 방문하기.',
+    link: 'https://webserver-two.vercel.app/',
+  },
+  {
+    title: 'clerk',
+    desc: 'clerk 페이지 방문하기.',
+    link: 'https://clerk-omega.vercel.app/',
+  },
+  {
+    title: 'shoppingmall',
+    desc: '쇼핑몰 페이지 방문하기.',
+    link: 'https://shopping-j1vvoo.vercel.app/',
+  },
+  {
+    title: 'securitycheck',
+    desc: '취약점테스트 페이지 방문하기.',
+    link: 'http://www.securitycheck.kro.kr:3000/',
   },
 ]

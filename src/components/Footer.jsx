@@ -10,8 +10,14 @@ const Footer = () => {
           <div>my homepage</div>
           <div>portfolio</div>
         </h2>
-
         <div className="footer__info">
+          <div className="left">
+            <div className="title">
+              <a href="https://crud-lake-three.vercel.app/">게시판</a>
+            </div>
+            <p className="desc">게시판 바로가기</p>
+          </div>
+
           <div className="right">
             <h3>social</h3>
             <ul>
